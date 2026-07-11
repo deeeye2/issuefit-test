@@ -1,0 +1,11 @@
+version: 1
+
+project:
+  externalContributions: true
+  contributionGuide: CONTRIBUTING.md
+
+maintainerCapacity:
+  acceptingContributors: true
+
+opportunities:
+  allowedTypes: [bug]
